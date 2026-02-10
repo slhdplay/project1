@@ -1,6 +1,6 @@
 # Конспект занятий
 
-## Навигация по проекту
+##Навигация по проекту
 
 - [Bash](/content/Bash/README.md)
 - [Git](/content/Git/README.md)
