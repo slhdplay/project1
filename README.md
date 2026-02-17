@@ -36,7 +36,7 @@
 [Virtual Box](https://www.oracle.com/virtualization/virtualbox/)
 [Альт Образование 11](https://download.basealt.ru/pub/distributions/ALTLinux/p11/images/education/x86_64/alt-education-11.0-x86_64.iso)
 1. Нейросети [DeepSeek](https://chat.deepseek.com/) и [Cursor](https://cursor.com/)
-
+1
 ### Git
 
 Открыть **Powersheell** или **Git-Bash**
